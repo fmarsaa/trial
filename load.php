@@ -1,4 +1,6 @@
 <?php
-require_once "fmc.php";
 
+require_once "fnc.php";
 $Obj = new fnc();
+
+?>
